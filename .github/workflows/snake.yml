@@ -1,3 +1,11 @@
+name: Snake generator
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" #  run every hour
+
 jobs:
   build:
     runs-on: ubuntu-latest
