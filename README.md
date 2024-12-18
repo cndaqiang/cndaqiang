@@ -1,6 +1,9 @@
-<h2 align="left">Hi 👋! My name is cndaqiang. </h2>
+<h2 align="left">Hi 👋! My name is cndaqiang.</h2>  
 
-<p align="left">and I specialize in first-principles computational software development and high-performance computing (HPC) cluster management and maintenance. <br><br> I proudly embrace the roles of a bug producer, a code porter, and a code-formatting perfectionist.</p>
+<p align="left">I specialize in first-principles package development and high-performance computing (HPC) cluster management and maintenance.  
+<br>  
+I am a bug producer, a code porter, and a code-formatting perfectionist.  
+</p>  
 
 ###
 
